@@ -1,0 +1,4 @@
+# with arg with retun
+def sum(a,b):
+    return a+b
+print (sum(10,20))
